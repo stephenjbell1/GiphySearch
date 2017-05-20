@@ -1,0 +1,44 @@
+html {
+    background-image: url("../Images/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    color: white;
+    text-align: center;
+    font-size: 14px;
+
+}
+
+#Title{
+	
+	font-size: 32px;
+	font-weight: bold;
+}
+
+.animal{    
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 70%
+}
+
+#animals-view{
+
+	display: inline-block;
+
+}
+
+body {
+	background-color: black;
+	width: 80%;
+	height: 80%;
+
+	position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+
+}
